@@ -1,0 +1,3 @@
+include ':OcrPlateidLibrary'
+include ':app'
+rootProject.name = "plate_id_recngnition"
